@@ -1,0 +1,8 @@
+{
+	"name": "Bob",
+	"gender": "Male",
+	"email": "admin@yourstore.com",
+	"password": "admin",
+	"productName": [ "Blackberry", "iphone X", "Samsung Note 8", "Nokia Edge" ],
+	"country": "India"
+}
